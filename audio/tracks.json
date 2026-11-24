@@ -1,0 +1,34 @@
+{
+  "note": "Optional music is not supplied. Add MP3 or OGG paths to a track\u2019s files list when available. Effects and sea ambience are synthesised locally.",
+  "tracks": {
+    "bgm_exploration": {
+      "files": [],
+      "optional": true,
+      "formats": [
+        "mp3",
+        "ogg"
+      ]
+    },
+    "bgm_combat": {
+      "files": [],
+      "optional": true,
+      "formats": [
+        "mp3",
+        "ogg"
+      ]
+    }
+  },
+  "effects": [
+    "sfx_ui",
+    "sfx_saw",
+    "sfx_valve",
+    "sfx_pour",
+    "sfx_cast",
+    "sfx_impact",
+    "sfx_timed_hit",
+    "sfx_glyph_solved",
+    "sfx_misfire",
+    "sfx_beam",
+    "sfx_signal"
+  ]
+}

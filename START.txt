@@ -1,0 +1,17 @@
+The Unmapped: The Beacon That Remembered
+
+This is a local review package. It includes the chapter, teaching voices, effects and ambience. Music files are optional.
+
+Requirements: Python 3 and a current browser with WebGL 2. From this package directory, run:
+python3 -m http.server 8768 --bind 127.0.0.1
+Then open http://127.0.0.1:8768/ on the same computer. Stop the server with Control-C.
+
+In the development folder, npm start creates a checked package and serves it on that same address. Packaging also requires Node.js and ffprobe. No account or cloud service is used.
+
+Arrow keys or WASD move; E inspects; J opens the journal; Escape closes or rests. Touch controls and the numeric keypad provide the same actions. Use landscape orientation. Settings includes larger text, reduced motion, graphics quality, audio and timing choices.
+
+Progress stays in this browser at this address. Export a private save from Settings > Save and recovery. Clearing browser data can erase progress. A different browser, address or home-screen app can have a separate save. Keep the same port to return to the same browser store. Import and restart keep a recovery checkpoint.
+
+This loopback address works only on the computer running the server. A phone needs a separately authorised reachable preview. Browser emulation and WebKit on a Mac do not establish physical iPhone performance or comfort. The package does not establish learning or enjoyment.
+
+After completing the chapter and resting in the shelter, inspect Shelter and choose Help with the outgoing messages. The packing table has one story dispatch, two fresh plans and map cases that open at least one day later by this device’s clock. Goal replay is free; mathematical help is recorded separately. Current saves upgrade locally and keep recovery copies.

@@ -1,0 +1,36 @@
+{
+  "assets": [
+    {
+      "path": "vendor/build",
+      "author": "Three.js contributors",
+      "licence": "MIT",
+      "notice": "vendor/THREE-LICENSE",
+      "version": "0.187.0"
+    },
+    {
+      "path": "assets/sprites/explorer-walk.png",
+      "origin": "Original generated explorer walking atlas",
+      "tool": "OpenAI built-in image generation",
+      "date": "2026-11-21"
+    },
+    {
+      "path": "assets/sprites/explorer-actions.png",
+      "origin": "Original generated explorer action atlas",
+      "tool": "OpenAI built-in image generation",
+      "date": "2026-11-21"
+    },
+    {
+      "path": "assets/sprites/harbour-folk-v2.png",
+      "origin": "Original generated harbour cast; transparent cutout revision",
+      "tool": "OpenAI built-in image generation",
+      "date": "2026-11-21"
+    },
+    {
+      "path": "assets/sprites/explorer-mechanisms.png",
+      "origin": "Original generated explorer valve, pour, stagger and victory atlas",
+      "tool": "OpenAI built-in image generation",
+      "date": "2026-11-21"
+    }
+  ],
+  "mathematics": "Original quantities, wording and diagrams. Source mapping is kept in the private approved curriculum plan; no textbook question bank is copied."
+}

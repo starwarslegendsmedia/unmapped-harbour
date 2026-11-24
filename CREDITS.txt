@@ -1,0 +1,6 @@
+The Unmapped: The Beacon That Remembered
+Original story, encounter quantities, diagrams and code-built harbour scenery.
+Original generated character atlases; see assets/licences.json.
+Teaching and dialogue use locally generated character voices. Effects and sea ambience are synthesised by the game. Optional music is not required or included.
+Three.js 0.187.0 by the Three.js contributors, MIT licence: vendor/THREE-LICENSE.
+No textbook text, illustrations or exercise bank is included.
